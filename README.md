@@ -19,7 +19,7 @@
 <div> 
 
   <a href="https://instagram.com/mateusmarin28/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Mateus Marin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/Mateus Marin](https://www.linkedin.com/feed/?trk=404_page)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Mateus-Marin/Mateus-Marin/blob/output/github-contribution-grid-snake.svg)
 
