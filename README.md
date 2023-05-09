@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Minhas redesm sociais abaixo!
+  ### Minhas redes sociais abaixo!
  
 <div> 
 
